@@ -1,0 +1,4 @@
+Hello Friends
+This is read mode
+
+this is write mode
